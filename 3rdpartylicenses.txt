@@ -66,6 +66,9 @@ MIT
 @angular/router
 MIT
 
+@iconify/icons-bi
+MIT
+
 @iconify/icons-simple-icons
 CC0 1.0
 
